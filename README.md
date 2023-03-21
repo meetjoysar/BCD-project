@@ -3,3 +3,5 @@ This was the project made in collaboration with 3 of my friends for 4th semester
 <br />Collaborators :- @Deepashri Dabhade @Aaditya More & myself @Meet Joysar
 <br />Here we took a dataset from kaggle with more than 30 features of patients consisting malignant or benign breast cancer, and we the help of various model we classified the tumor in those categories i.e. Malignant and Benign
 <br />A pdf has been uploaded where all our research work about our project is described and all the ouputs of our code.
+<br />The project report pdf is also attached where you will get the complete survey of our project
+<br />Also the dataset used for this project has been attached as data.csv file
